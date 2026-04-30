@@ -1,5 +1,5 @@
 /* ============================================
-   SCRIPT.JS — Portfolio Daniel Sande Bona
+   SCRIPT.JS — Portfolio Marcellino Pasanea 
    ============================================
    File JavaScript eksternal untuk semua interaksi:
    - Navbar scroll effect
